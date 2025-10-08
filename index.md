@@ -1,24 +1,24 @@
-# プライバシーポリシー
+# Privacy Policy
 
-このアプリは、開発者自身による限定利用を目的としており、外部ユーザーへの提供は行っておりません。
+This application is intended solely for personal use by the developer and is not provided to external users.
 
-## 取得する情報
+## Information Collected
 
-このアプリでは、GoogleのOAuth2認証を通じて、YouTube APIを利用するために以下の情報を取得します：
+This app uses Google OAuth2 authentication to access the YouTube Data API and retrieve the following information:
 
-- YouTubeチャンネルに関連する動画情報
-- 動画に投稿されたコメント情報
+- Video data associated with the developer’s YouTube channel  
+- Comments posted on those videos
 
-## 利用目的
+## Purpose of Use
 
-取得した情報は、開発者自身の動画管理およびコメント分析のために使用されます。  
-第三者への提供や共有は一切行いません。
+The collected information is used exclusively for the developer’s own video management and comment analysis.  
+No data is shared or provided to any third parties.
 
-## データの保管と管理
+## Data Storage and Management
 
-取得したデータは、Google Apps Scriptの内部でのみ利用され、外部サーバー等に保存されることはありません。  
-トークン情報は安全に管理され、漏洩防止に努めています。
+All retrieved data is used only within Google Apps Script and is not stored on any external servers.  
+OAuth token information is securely managed to prevent leakage or unauthorized access.
 
-## お問い合わせ
+## Contact
 
-このアプリは個人利用のため、一般向けのサポート窓口は設けておりません。
+This application is for personal use only, and no public support contact is provided.
